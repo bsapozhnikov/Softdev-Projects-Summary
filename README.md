@@ -15,6 +15,9 @@ Brian Sapozhnikov, Eric Chen, Sunnam Quispe, Oliver Zhang
 This python app uses flask, forms, and SQL to create a blog engine. The key functional aspect is SQL, which has a table of posts with title and content and a table of comments which is linked to post titles.
 ##### [https://github.com/bsapozhnikov/BOSE-blog](https://github.com/bsapozhnikov/BOSE-blog) #####
 ### Mini Projects ###
+   * api
+     * Brian Sapozhnikov, Benedict Bolton
+     * [https://github.com/Benedict-Bolton/MerryFridayTrainDelays](https://github.com/Benedict-Bolton/MerryFridayTrainDelays)
    * login
      * Brian Sapozhnikov, Michael Huang
      * 6/login/brian_michael
