@@ -2,6 +2,12 @@
 ## Fall Semester
 Period 6
 ### Main Projects ###
+#### Go-dega ####
+##### Team Members #####
+Anya Hargil, Brian Sapozhnikov, Maria Vasilkin, Sunnam Quispe
+##### Description #####
+In a big city like NYC, everyone has a hole-in-the-wall favorite place to eat, hang out, ect. This app provides a means for people to find and share fun and generally unknown places aroud the city.
+##### [https://github.com/bsapozhnikov/Holes-In-The-Wall](https://github.com/bsapozhnikov/Holes-In-The-Wall) #####
 #### Google Search ####
 ##### Team Members #####
 Aaron Mortenson, Brian Sapozhnikov, Cooper Weaver, Eric Chen
