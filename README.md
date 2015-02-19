@@ -9,6 +9,7 @@ Period 6
    * canvas
      * Brian Sapozhnikov, Albert Young
 	 * 6/canvas/albert-brian
+	 
 ## Fall Semester ##
 Period 6
 ### Main Projects ###
