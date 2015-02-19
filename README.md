@@ -1,5 +1,15 @@
 # Brian Sapozhnikov
-## Fall Semester
+## Spring Semester ##
+Period 6
+### Main Projects ###
+### Mini Projects ###
+   * svg
+     * Brian Sapozhnikov
+	 * 6/svg/brian
+   * canvas
+     * Brian Sapozhnikov, Albert Young
+	 * 6/canvas/albert-brian
+## Fall Semester ##
 Period 6
 ### Main Projects ###
 #### Go-dega ####
