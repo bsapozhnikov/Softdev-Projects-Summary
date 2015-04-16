@@ -2,7 +2,25 @@
 ## Spring Semester ##
 Period 6
 ### Main Projects ###
+#### Final Project: TripLemur ####
+##### Team Members #####
+Leon Frajmund, Brian Sapozhnikov, Maria Vasilkin, Natan Zamansky
+##### Description #####
+This app is a tool for people who want to plan/organize trips. It aims to assist people in planning while also allowing the user to choose the specific means/level of organization they are comfortable with.
+##### [https://github.com/bsapozhnikov/TripLemur](https://github.com/bsapozhnikov/TripLemur) #####
 ### Mini Projects ###
+   * marionette
+     * Brian Sapozhnikov
+	 * 6/marionette/brian
+   * backbone
+     * Brian Sapozhnikov, Natan Zamansky
+	 * 6/backbone1/brian-natan
+   * mtns
+     * Brian Sapozhnikov
+	 * 6/mtns/brian
+   * data
+     * Brian Sapozhnikov, Sunnam Quispe
+     * 6/data/sunnam_brian
    * svg
      * Brian Sapozhnikov
 	 * 6/svg/brian
